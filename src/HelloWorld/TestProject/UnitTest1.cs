@@ -6,7 +6,7 @@ namespace TestProject
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.IsTrue(true);
+            Assert.AreEqual(true, true);
         }
     }
 }
