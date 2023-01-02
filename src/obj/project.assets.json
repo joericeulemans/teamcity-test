@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\joeri\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\joeri\\source\\repos\\TEMP\\TeamCity\\teamcity-test\\src\\src.csproj",
+      "projectName": "src",
+      "projectPath": "C:\\Users\\joeri\\source\\repos\\TEMP\\TeamCity\\teamcity-test\\src\\src.csproj",
+      "packagesPath": "C:\\Users\\joeri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joeri\\source\\repos\\TEMP\\TeamCity\\teamcity-test\\src\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\joeri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\joeri\\.nuget\\packages": {},
+        "https://peopleware.myget.org/F/crossdb-debug/auth/e2ee7d57-2fd8-4a0e-a68b-1126bf49db6c/api/v2": {},
+        "https://peopleware.myget.org/F/crossdb-next/auth/e2ee7d57-2fd8-4a0e-a68b-1126bf49db6c/api/v2": {},
+        "https://peopleware.myget.org/F/crossdb-private/auth/e2ee7d57-2fd8-4a0e-a68b-1126bf49db6c/api/v2": {},
+        "https://peopleware.myget.org/F/crossdb-release/auth/e2ee7d57-2fd8-4a0e-a68b-1126bf49db6c/api/v2": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
